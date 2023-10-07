@@ -1,0 +1,22 @@
+{
+  "Accessories": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Accessories/Frames_Without_Glass_latest.glb",
+      "Name": "Frame"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Accessories/Wall_Plants.glb",
+      "Name": "WallPlants"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Accessories/Vase.glb",
+      "Name": "Vase"
+    }
+  ],
+  "Mirror": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/mirror/mirror_draco.glb",
+      "Name": "Mirror_Selectable"
+    }
+  ]
+}

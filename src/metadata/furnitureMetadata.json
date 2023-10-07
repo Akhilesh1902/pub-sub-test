@@ -1,0 +1,71 @@
+{
+  "Tables": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Tables/Table_Automatic_01_v01.glb",
+      "Name": "Motorized",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/tables/Table_Automatic_01_v01.webp",
+      "spin_value": "Table1",
+      "spin_description": "Motorized Height Adjustable Home Office Computer Desk, Large Curved Edge Standing PC Gaming Table Workstation with different material variants like Pine Wood, Red Pearwood and Walnut Wood, 78D x 39W x 34H"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Tables/Table_Manual_01_v01.glb",
+      "Name": "Manual",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/tables/Table_Manual_01_v01.webp",
+      "spin_value": "Table2",
+      "spin_description": "Manual Height Adjustable Home Office Computer Desk, Large Curved Edge Standing PC Gaming Table Workstation With Different Material Variants Black Leather, Brown Leather and Red Leather, 90D x 30W x 36H"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Tables/Table_Small_01_v01_Draco.glb",
+      "Name": "Small",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/tables/Table_Small_01_v01.webp",
+      "spin_value": "Table3",
+      "spin_description": "Small Height Adjustable Home Office Computer Desk, Large Curved Edge Standing PC Gaming Table Workstation with different marble variants like Explosionblue, Greyvision and Starblack, 43D x 23W x 34H"
+    }
+  ],
+  "Chairs": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Chairs/chair_01/Chair_01_v01.glb",
+      "Name": "Bucket Seat",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair_01_v01.webp",
+      "spin_value": "Chair1",
+      "spin_description": "Basics Upholstered Home Office 360 Degree Bucket Seat Chair with Adjustable-Height,rotate and back rest, containing three different variants of ConiferWood OrangeLeather, MahoganyWood, BrownLeather and BlackLeather, 30D x 30W x 44H"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Chairs/chair_02/Chair_02_v01.glb",
+      "Name": "Basic",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair_02_v01.webp",
+      "spin_value": "Chair2",
+      "spin_description": "Basics Home Office 360 Degree Seat Chair with Adjustable-Height,rotate and handle, containing three different variants of Black, Blue and Copper, 42D x 42W x 54H"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Chairs/Chair_03_v01.glb",
+      "Name": "Advanced",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/chairs/Chair_03_v01.webp",
+      "spin_value": "Chair3",
+      "spin_description": "Home Office 360 Degree Seat Chair with Adjustable-Height,rotate and back rest, containing three different variants of Fabric, Leather and Pattern, 50D x 27W x 2H"
+    }
+  ],
+  "Blinds": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Blinds/blind_03/Blinds_03_v01_draco.glb",
+      "Name": "Horizontal",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/blinds/Blinds_03_v01.webp",
+      "spin_value": "Horizontal_Blind",
+      "spin_description": "Horizontal Window Shades"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Blinds/blind_01/Blinds_01_v01_draco.glb",
+      "Name": "Vertical",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/blinds/Blinds_01_v01.webp",
+      "spin_value": "Vertical_Blind",
+      "spin_description": "Vertical Window Shades"
+    },
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Blinds/blind_02/Blinds_02_v01_draco.glb",
+      "Name": "RollUp",
+      "thumbnail": "https://d3t7cnf9sa42u5.cloudfront.net/thumbnails/blinds/Blinds_02_v01.webp",
+      "spin_value": "RollUp_Blind",
+      "spin_description": "RollUp Window Shades"
+    }
+  ]
+}

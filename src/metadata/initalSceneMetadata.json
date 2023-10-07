@@ -1,0 +1,14 @@
+{
+  "Room": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Room/Room_Variants_latest1.glb",
+      "Name": "Room"
+    }
+  ],
+  "Blinds": [
+    {
+      "modelUrl": "https://d3t7cnf9sa42u5.cloudfront.net/compressed_models/Blinds/blind_03/Blinds_03_v01_draco.glb",
+      "Name": "Horizontal"
+    }
+  ]
+}
